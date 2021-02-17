@@ -1,131 +1,135 @@
-[
-  {
-    "title": "Омлет",
-    "ingredients": [
-      {
-        "title": "яйца",
-        "unit": "piece",
-        "count": 3
-      },
-      {
-        "title": "молоко",
-        "unit": "milliliter",
-        "count": 200
-      },
-      {
-        "title": "Соль",
-        "unit": "gram",
-        "count": 5
-      },
-      {
-        "title": "Масло сливочное",
-        "unit": "gram",
-        "count": 20
-      }
-    ],
-    "recipeText": "Текст рецепта омлета"
-  },
-  {
-    "title": "Плов",
-    "ingredients": [
-      {
-        "title": "Рис",
-        "unit": "gram",
-        "count": 500
-      },
-      {
-        "title": "Морковь",
-        "unit": "gram",
-        "count": 400
-      },
-      {
-        "title": "Лук",
-        "unit": "gram",
-        "count": 400
-      },
-      {
-        "title": "Масло подсолнечное",
-        "unit": "milliliter",
-        "count": 200
-      },
-      {
-        "title": "Вода",
-        "unit": "milliliter",
-        "count": 1000
-      }
-    ],
-    "recipeText": "Текст рецепта плова"
-  },
-  {
-    "title": "Борщ",
-    "ingredients": [
-      {
-        "title": "Вода",
-        "unit": "milliliter",
-        "count": 3000
-      },
-      {
-        "title": "Свекла",
-        "unit": "piece",
-        "count": 2
-      },
-      {
-        "title": "Соль",
-        "unit": "gram",
-        "count": 5
-      },
-      {
-        "title": "Говядина",
-        "unit": "gram",
-        "count": 500
-      },
-      {
-        "title": "Лук",
-        "unit": "gram",
-        "count": 200
-      },
-      {
-        "title": "Морковь",
-        "unit": "gram",
-        "count": 200
-      }
-    ],
-    "recipeText": "Текст рецепта борща"
-  },
-  {
-    "title": "Борщ",
-    "ingredients": [
-      {
-        "title": "Вода",
-        "unit": "milliliter",
-        "count": 3000
-      },
-      {
-        "title": "Свекла",
-        "unit": "piece",
-        "count": 2
-      },
-      {
-        "title": "Соль",
-        "unit": "gram",
-        "count": 5
-      },
-      {
-        "title": "Говядина",
-        "unit": "gram",
-        "count": 500
-      },
-      {
-        "title": "Лук",
-        "unit": "gram",
-        "count": 200
-      },
-      {
-        "title": "Морковь",
-        "unit": "gram",
-        "count": 200
-      }
-    ],
-    "recipeText": "Текст рецепта борща"
-  }
-]
+{ 
+  "recipes": [
+    {
+      "title": "Омлет",
+      "ingredients": [
+        {
+          "title": "яйца",
+          "unit": "piece",
+          "count": 3
+        },
+        {
+          "title": "молоко",
+          "unit": "milliliter",
+          "count": 200
+        },
+        {
+          "title": "Соль",
+          "unit": "gram",
+          "count": 5
+        },
+        {
+          "title": "Масло сливочное",
+          "unit": "gram",
+          "count": 20
+        }
+      ],
+      "recipeText": "Текст рецепта омлета"
+    },
+    {
+      "title": "Плов",
+      "ingredients": [
+        {
+          "title": "Рис",
+          "unit": "gram",
+          "count": 500
+        },
+        {
+          "title": "Морковь",
+          "unit": "gram",
+          "count": 400
+        },
+        {
+          "title": "Лук",
+          "unit": "gram",
+          "count": 400
+        },
+        {
+          "title": "Масло подсолнечное",
+          "unit": "milliliter",
+          "count": 200
+        },
+        {
+          "title": "Вода",
+          "unit": "milliliter",
+          "count": 1000
+        }
+      ],
+      "recipeText": "Текст рецепта плова"
+    },
+    {
+      "title": "Борщ",
+      "ingredients": [
+        {
+          "title": "Вода",
+          "unit": "milliliter",
+          "count": 3000
+        },
+        {
+          "title": "Свекла",
+          "unit": "piece",
+          "count": 2
+        },
+        {
+          "title": "Соль",
+          "unit": "gram",
+          "count": 5
+        },
+        {
+          "title": "Говядина",
+          "unit": "gram",
+          "count": 500
+        },
+        {
+          "title": "Лук",
+          "unit": "gram",
+          "count": 200
+        },
+        {
+          "title": "Морковь",
+          "unit": "gram",
+          "count": 200
+        }
+      ],
+      "recipeText": "Текст рецепта борща"
+    },
+    {
+      "title": "Борщ",
+      "ingredients": [
+        {
+          "title": "Вода",
+          "unit": "milliliter",
+          "count": 3000
+        },
+        {
+          "title": "Свекла",
+          "unit": "piece",
+          "count": 2
+        },
+        {
+          "title": "Соль",
+          "unit": "gram",
+          "count": 5
+        },
+        {
+          "title": "Говядина",
+          "unit": "gram",
+          "count": 500
+        },
+        {
+          "title": "Лук",
+          "unit": "gram",
+          "count": 200
+        },
+        {
+          "title": "Морковь",
+          "unit": "gram",
+          "count": 200
+        }
+      ],
+      "recipeText": "Текст рецепта борща"
+    }
+  ]
+}
+
+
