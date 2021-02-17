@@ -97,37 +97,23 @@
       "recipeText": "Текст рецепта борща"
     },
     {
-      "title": "Борщ",
+      "id": 4,
+      "title": "Бутерброд",
       "ingredients": [
         {
-          "title": "Вода",
+          "title": "хлеб",
           "unit": "milliliter",
           "count": 3000
         },
         {
-          "title": "Свекла",
+          "title": "колбаса",
           "unit": "piece",
           "count": 2
         },
         {
-          "title": "Соль",
+          "title": "масло",
           "unit": "gram",
           "count": 5
-        },
-        {
-          "title": "Говядина",
-          "unit": "gram",
-          "count": 500
-        },
-        {
-          "title": "Лук",
-          "unit": "gram",
-          "count": 200
-        },
-        {
-          "title": "Морковь",
-          "unit": "gram",
-          "count": 200
         }
       ],
       "recipeText": "Текст рецепта борща"
