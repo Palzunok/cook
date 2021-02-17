@@ -1,6 +1,7 @@
 { 
   "recipes": [
     {
+      "id": 1,
       "title": "Омлет",
       "ingredients": [
         {
@@ -27,6 +28,7 @@
       "recipeText": "Текст рецепта омлета"
     },
     {
+      "id": 2,
       "title": "Плов",
       "ingredients": [
         {
@@ -58,6 +60,7 @@
       "recipeText": "Текст рецепта плова"
     },
     {
+      "id": 3,
       "title": "Борщ",
       "ingredients": [
         {
